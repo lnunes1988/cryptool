@@ -1,7 +1,7 @@
 function btc() {
 
     const dynamicDate = new Date();
-    const dynamicDateString = dynamicDate.toGTMString();
+    const dynamicDateString = dynamicDate;
 
     return (
         <div>
