@@ -1,6 +1,6 @@
 function btc(resquest, response){
 
-    const dynamicDate = new Date();
+    const dynamicDate = "new Date()";
 
     const bitcoinResponse = "teste";//await fetch("https://www.mercadobitcoin.net/api/BTC/ticker/")
     const bitcoinResponseJson = "teste"//await bitcoinResponse.json();
