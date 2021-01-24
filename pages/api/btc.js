@@ -1,4 +1,4 @@
-async function btc(resquest, response){
+function btc(resquest, response){
 
     const dynamicDate = new Date();
 
