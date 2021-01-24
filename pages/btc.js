@@ -1,4 +1,4 @@
-function btc() {
+function bitcoin() {
 
     const dynamicDate = new Date();
     const dynamicDateString = dynamicDate;
@@ -10,4 +10,4 @@ function btc() {
     )
 }
 
-export default btc
+export default bitcoin
