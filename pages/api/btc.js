@@ -12,4 +12,4 @@ async function btc(resquest, response){
         })
 }
 
-export default btc
+export default btc;
