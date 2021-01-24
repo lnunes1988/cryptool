@@ -6,7 +6,7 @@ async function btc(resquest, response){
     const bitcoinResponseJson = await bitcoinResponse.json();
     const ultimoPreco = bitcoinResponseJson.ticker.last;
 //ts
-        response({
+        response.json({
             date: dynamicDate.toGTMString(),
             valor: ultimoPreco
         });
