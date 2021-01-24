@@ -1,4 +1,4 @@
-function sobre() {
+function Home() {
     return (<div><div>Home teste new</div>
 <form><li><input type="text" placeholder="Título"/>
 <input type="text" placeholder="Título"/>
@@ -8,4 +8,4 @@ function sobre() {
 
     )}
 
-export default Sobre
+export default Home
