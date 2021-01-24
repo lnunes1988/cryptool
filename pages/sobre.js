@@ -1,5 +1,5 @@
 function Home() {
-    return (<div><div>Home teste new</div>
+    return (<div><div>Sobre</div>
 <form><li><input type="text" placeholder="Título"/>
 <input type="text" placeholder="Título"/>
 <input type="text" placeholder="Título"/></li>
