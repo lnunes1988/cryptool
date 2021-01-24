@@ -1,7 +1,9 @@
 function Home() {
     return (<div><div>Home teste new</div>
-<form>
+<form><li><input type="text" placeholder="Título"/>
 <input type="text" placeholder="Título"/>
+<input type="text" placeholder="Título"/></li>
+
 </form></div>
 
     )}
