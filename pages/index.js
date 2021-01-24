@@ -8,4 +8,4 @@ function sobre() {
 
     )}
 
-export default Sobre
+export default sobre
