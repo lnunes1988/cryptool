@@ -1,14 +1,14 @@
-function btc(resquest, response){
+async function btc(resquest, response){
 
-    const dynamicDate = "new Date()";
+    const dynamicDate = new Date();
 
-    const bitcoinResponse = "teste";//await fetch("https://www.mercadobitcoin.net/api/BTC/ticker/")
-    const bitcoinResponseJson = "teste"//await bitcoinResponse.json();
-    //const ultimoPreco = bitcoinResponseJson.ticker.last;
+    const bitcoinResponse = await fetch("https://www.mercadobitcoin.net/api/BTC/ticker/");
+    const bitcoinResponseJson = await bitcoinResponse.json();
+    const ultimoPreco = bitcoinResponseJson.ticker.last;
 //ts
         response.json({
-            textdate: "dynamicDate"
-        
+            textdate: "dynamicDate",
+            Preço: ultimoPreco
         })
 }
 
