@@ -11,13 +11,14 @@ return <div>
 
 
 <Mybar></Mybar>
-<form>
-    <Container><p>
-        <input type="text" placeholder="Cotação"/>
-        <input type="text" placeholder="Quantidade"/>
-        <input type="text" placeholder="Total"/></p>
-    </Container>
-</form>
+<table>
+
+<tr><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+
+</table>
 
 <Button className='class MuiButton-outlined'>Atualizar</Button>
 
