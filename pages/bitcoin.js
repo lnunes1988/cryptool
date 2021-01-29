@@ -13,10 +13,10 @@ return <div>
 <Mybar></Mybar>
 <table>
 
-<tr><td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>2</td><td>10</td><td>1</td><td>1</td></tr>
+<tr><td>2</td><td>10</td><td>1</td><td>1</td></tr>
+<tr><td>2</td><td>10</td><td>1</td><td>1</td></tr>
+<tr><td>2</td><td>10</td><td>1</td><td>1</td></tr>
 
 </table>
 
