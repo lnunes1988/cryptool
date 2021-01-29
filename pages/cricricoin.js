@@ -12,9 +12,9 @@ return <div>
 
 <Mybar></Mybar>
 
-<h2>CricriCoin</h2>
+<h1>Cri-cri-Coin</h1>
 
-A cripto moeda que é mais eficaz que a própria eficácia.
+<h2>A cripto moeda que é mais eficaz que a própria eficácia.</h2>
 <br></br>
 
 
