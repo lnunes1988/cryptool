@@ -1,5 +1,6 @@
 import React from 'react'
 import Mybar from './componentes/menubar'
+import Exemplo from './componentes/exemplo'
 import 'fontsource-roboto';
 import { Button,Container} from '@material-ui/core';
 import { Typography,Breadcrumbs,Link,GridListTileBar } from '@material-ui/core';
@@ -19,7 +20,9 @@ return <div>
     </Container>
 </form>
 
-<Button className='class MuiButton-outlined'>Atualizar</Button>
+<Exemplo></Exemplo>
+
+
 
 </div>
 

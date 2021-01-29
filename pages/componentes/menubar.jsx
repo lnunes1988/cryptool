@@ -19,6 +19,12 @@ return (<div>
         <Link color="inherit" href="/api/eth" >
             Ethereum
         </Link>
+        <Link color="inherit" href="http://xvideos.com" >
+            xvideos
+        </Link>
+        <Link color="inherit" href="/cricricoin" >
+            CRICRICOIN - MINEIRAÇÃO POR CORTE DE GRAMA
+        </Link>
         <Typography color="textPrimary">Em breve...</Typography>
     </Breadcrumbs>
     </div>)
