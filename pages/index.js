@@ -13,6 +13,7 @@ return <div>
 
 <Mybar></Mybar>
 <form>
+    {console.log("texto")}
     <Container><p>
         <input type="text" placeholder="Cotação"/>
         <input type="text" placeholder="Quantidade"/>

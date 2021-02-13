@@ -10,7 +10,7 @@ return (<div>
         <Link color="inherit" href="/" >
             Geral
         </Link>
-        <Link color="inherit" href="/api/btc" >
+        <Link color="inherit" href="/btc" >
             Preço Bitcoin 
         </Link>
         <Link color="inherit" href="/bitcoin" >
@@ -18,9 +18,6 @@ return (<div>
         </Link>
         <Link color="inherit" href="/api/eth" >
             Ethereum
-        </Link>
-        <Link color="inherit" href="http://xvideos.com" >
-            xvideos
         </Link>
         <Link color="inherit" href="/cricricoin" >
             CRICRICOIN - MINEIRAÇÃO POR CORTE DE GRAMA
